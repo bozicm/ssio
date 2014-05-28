@@ -1,4 +1,4 @@
-ssio_dev
-========
+ssio
+====
 
-SSIO dev Moodle fork
+SSIO Moodle fork
